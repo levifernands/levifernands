@@ -1,7 +1,7 @@
 <h2> Hi there, welcome to my profile!<img src="https://media4.giphy.com/media/KEDCtlS9h2nsfVcC7E/giphy.gif" width="50"></h2>
 <img align='left' src="https://media4.giphy.com/media/Iztp4yypfEaNhVyK1I/giphy.gif?cid=790b7611ab6216b3cbe109814f8898c10c92f19f0e161efd&rid=giphy.gif&ct=s" width="50">
 
-<em>Hey, I'm **Levi Fernandes**. I am a front-end development student from Brazil <img src="https://media4.giphy.com/media/YO55LVVJc7G7yH62Wp/giphy.gif?cid=ecf05e476q4j02r43qsxkqqdlghhie4lywy9pp54qxo47ieq&rid=giphy.gif&ct=s" width="23"> . Feel free to contact me if you have any question or similar interests! :)</em>
+<em>Hey, I'm **Levi Fernandes**. I am a front-end development student from Brazil <img src="https://media4.giphy.com/media/YO55LVVJc7G7yH62Wp/giphy.gif?cid=ecf05e476q4j02r43qsxkqqdlghhie4lywy9pp54qxo47ieq&rid=giphy.gif&ct=s" width="23"> . Feel free to contact me if you have any questions or similar interests! :)</em>
 
 
 <!----Here are some ideas to get you started:
