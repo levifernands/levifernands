@@ -6,7 +6,7 @@
 
 <!----Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an amazing project regarding accessibility in different places in my home town :)
+- 🔭 I’m currently working on an amazing personal project for my portfolio regarding accessibility in different places in my home town :)
 - 🌱 I’m currently learning ReactJS, Bootstrap and Redux
 - 💬 Ask me about ANYTHING, I'll try my best to help you in whatever you need
 - 📫 Feel free to dm me anywhere on my social media. Peace out 😎
